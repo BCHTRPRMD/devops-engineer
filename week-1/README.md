@@ -4,21 +4,14 @@ Membuat Kultur DevOps dalam Sebuah Perusahaan
 
 # Kebutuhan
 
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
+Adapun rincian kebutuhan diantaranya :
 
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Dll
+- OS : Linux Ubuntu
+- Version Control : Git
+- CI/CD Tools : Jenkins
+- Container : Docker
+- Monitoring Tools: Nagios
 
 # Penyelesaian
 
-- [plan](Plan.md)
-- [Code](Code.md)
-- [Build](Build.md)
-- [Test](Test.md)
-- [Release](Release.md)
-- [Deploy](Deploy.md)
-- [Operate](Operate.md)
-- [Monitor](Monitor.md)
+[Flow DevOps TaniHub](flow-DevOps.md)

@@ -58,7 +58,7 @@ Jenkins adalah sebuah server otomatisasi berbasis open-source, dengan integrasi 
 
 ## Continuous Deployment
 
-Continous deployment merupakan proses otomatisasi agar aplikasi yang telah siap di deploy ke server dapat diteruskan sampai aplikasi dapat diakses secara publik.
+Continuous deployment merupakan proses otomatisasi agar aplikasi yang telah siap di deploy ke server dapat diteruskan sampai aplikasi dapat diakses secara publik.
 
 ### Tools
 

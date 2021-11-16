@@ -14,4 +14,4 @@ Adapun rincian kebutuhan diantaranya :
 
 # Penyelesaian
 
-[Flow DevOps TaniHub](flow-DevOps.md)
+[Flow DevOps Minaqu](flow-DevOps.md)

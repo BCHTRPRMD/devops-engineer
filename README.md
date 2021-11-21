@@ -10,8 +10,10 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 
 ## Minggu ke 2
 
-- Setup git & Ssh key
-- Setup database & Deploy aplikasi backend
+- Instalasi linux server dan Bash script
+- Dokumentasi perintah versioning pada git
+- Study case
+- Github Actions
 - [Baca lebih lanjut](week-2/README.md)
 
 ## Minggu ke 3

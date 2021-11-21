@@ -1,14 +1,19 @@
 # Week 2
-Jelaskan maksud dari week 2 ini, apa yang akan Anda buat serta berikan gambar arsitekturnya.
+
+Melakukan Instalasi, Konfigurasi, Service management serta membuat Dokumentasinya
 
 # Kebutuhan
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Dll
+
+Adapun rincian kebutuhan diantaranya :
+
+- OS : Linux Ubuntu Server
+- Version Control : Git
+- Virtualization software : VirtualBox
 
 # Penyelesaian
-- [Setup git & Ssh key](setup-git-dan-ssh-key.md)
-- [Setup database & Deploy aplikasi backend](setup-database-dan-deploy-aplikasi-backend.md)
+
+- [Instalasi Linux server](instalasi-linux.md)
+- [Bash script](bash-script.md)
+- [Dokumentasi Git ](dokumentasi-versioning-git.md)
+- [Study case](study-case.md)
+- [Github Actions](github-actions.md)

@@ -5,6 +5,7 @@ Berikut penjelasan proses dan langkah CI/CD dengan menggunakan github actions:
 ## Step 1
 
 - Membuat sebuah repository baru sebagai tempat CI/CD, lalu push project aplikasinya ke repository tersebut.
+  ![0](assets/setup-00.png)
 
 ## Step 2
 

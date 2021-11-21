@@ -26,7 +26,7 @@ berikut contoh penggunaan nya :
 
 - touch nama-file
 
-![touch](assets/touch.png)
+![touch](assets/touch-rm.png)
 
 ## ls
 
@@ -66,7 +66,7 @@ perintah yang digunakan untuk menghapus file atau folder, berikut contoh penggun
 
 - rm nama-file or rm -r nama-folder
 
-![rm](assets/rm.png)
+![rm](assets/touch-rm.png)
 
 ## find
 
@@ -91,7 +91,7 @@ Sudo merupakan program yang terdapat dalam linux yang digunakan untuk menjalanka
 - sudo su
 - sudo apt update
 
-![sudo](assets/sudo)
+![sudo](assets/sudo.png)
 
 ## df
 

@@ -4,7 +4,7 @@ Pada pengembangan sebuah aplikasi dibutuhkan sebuah pembaharuan fitur yang digun
 
 Adapun Langkah proses pengembangan nya sebagai berikut :
 
-![1](assets/sudy-case.png)
+![1](assets/study-case.png)
 
 ### Development
 

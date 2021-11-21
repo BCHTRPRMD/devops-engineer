@@ -1,4 +1,4 @@
-# Instalasi linux server dan Bash script
+# Instalasi linux server
 
 ## OS
 

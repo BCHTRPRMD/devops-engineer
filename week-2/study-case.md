@@ -4,7 +4,9 @@ Pada pengembangan sebuah aplikasi dibutuhkan sebuah pembaharuan fitur yang digun
 
 Adapun Langkah proses pengembangan nya sebagai berikut :
 
-![1](assets/study-case.png)
+<p align="center">
+  <img src="https://github.com/BCHTRPRMD/dumbways-dev/blob/master/week-2/assets/study-case.png" />
+</p>
 
 ### Development
 

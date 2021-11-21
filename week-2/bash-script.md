@@ -110,7 +110,7 @@ perintah untuk mendefinisikan permission/hak akses, berikut contoh penggunaan ny
 
 ![chmod](assets/chmod.png)
 
-## chmod
+## chown
 
 perintah yang digunakan untuk mengubah kepemilikan pada suatu file atau folder kepada user tertentu, berikut contoh penggunaan nya :
 

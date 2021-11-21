@@ -28,7 +28,7 @@ Ubuntu adalah sebuah sistem operasi dan distribusi Linux berbasis Debian yang gr
 ### Konfigurasi proxy dan ubuntu archive mirror
 
 ![konfigurasi-proxy pic](assets/proxy.png)
-![konfigurasi-archive pic](assets/archive.png)
+![konfigurasi-archive pic](assets/archive.PNG)
 
 ### Membuat partisi server dengan memilih custom storage layout
 

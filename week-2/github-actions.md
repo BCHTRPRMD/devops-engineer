@@ -33,7 +33,8 @@ Berikut penjelasan proses dan langkah CI/CD dengan menggunakan github actions:
 
 - Setelah dilakukan perbaikan pada app, selanjutnya adalah melakukan push ke repository yang telah dibuat.
 - Jika app telah sesuai dengan format maka akan ada indikator checklist hijau dengan begitu tandanya kita telah berhasil melakukan CI/CD menggunakan GitHub action.
+  ![7](assets/setup-7.png)
 
-![5](assets/setup-5.png)
+  ![5](assets/setup-5.png)
 
-![6](assets/setup-6.png)
+  ![6](assets/setup-6.png)

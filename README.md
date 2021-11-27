@@ -1,7 +1,5 @@
 # DevOps Engineer - DumbWays.id
 
-DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
-
 ## Minggu ke 1
 
 - Introduction DevOps
@@ -18,8 +16,8 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 
 ## Minggu ke 3
 
-- Setup docker & Membuat custom docker image
-- Setup CI/CD & Notifikasi]
+- Manage Server with Terminal
+- Perintah Tambahan
 - [Baca lebih lanjut](week-3/README.md)
 
 ## Minggu ke 4
@@ -27,14 +25,3 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 - Setup monitoring
 - Setup ansible & Membuat ansible playbook untuk konfigurasi server
 - [Baca lebih lanjut](week-4/README.md)
-
-## Additional
-
-- Setup container orchestration
-- Setup microservices application
-- [Baca lebih lanjut](week-1/README.md)
-
-## Final
-
-- Final examination
-- [Baca lebih lanjut](final/README.md)

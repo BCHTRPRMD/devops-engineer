@@ -1,7 +1,5 @@
 # DevOps Engineer - DumbWays.id
 
-DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
-
 ## Minggu ke 1
 
 - Introduction DevOps

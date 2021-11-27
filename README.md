@@ -25,3 +25,7 @@
 - Setup monitoring
 - Setup ansible & Membuat ansible playbook untuk konfigurasi server
 - [Baca lebih lanjut](week-4/README.md)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 092c0c95be8d47806f531d561f7eca8ac87146f7

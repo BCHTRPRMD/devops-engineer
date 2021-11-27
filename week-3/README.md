@@ -1,16 +1,16 @@
 # Week 3
 
-Jelaskan maksud dari week 3 ini, apa yang akan Anda buat serta berikan gambar arsitekturnya.
+Dokumentasi Manage Server with Terminal
 
 # Kebutuhan
 
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
+Adapun rincian kebutuhan diantaranya :
 
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Dll
+- OS : Linux Ubuntu Server
+- Version Control : Git
+- Virtualization software : VirtualBox
+- Firewall : UFw
+- Tools : cmsmanajer
 
 # Penyelesaian
 

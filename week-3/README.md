@@ -1,8 +1,11 @@
 # Week 3
+
 Jelaskan maksud dari week 3 ini, apa yang akan Anda buat serta berikan gambar arsitekturnya.
 
 # Kebutuhan
+
 Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
+
 - Server : -
 - Security group : -
 - Aplikasi frontend : -
@@ -10,5 +13,7 @@ Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
 - Dll
 
 # Penyelesaian
-- [Setup docker & Membuat custom docker image](setup-docker-dan-membuat-custom-docker-image.md)
-- [Setup CI/CD & Notifikasi](setup-ci-cd-dan-notifikasi.md)
+
+- [Dokumentasi Manage Server with terminal](manage-server.md)
+- [Perintah tambahan](perintah-tambahan.md)
+- [Dokumentasi cmsmanajer](dokumentasi-cmsmanajer.md)

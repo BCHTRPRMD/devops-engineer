@@ -13,6 +13,22 @@
 
   ![3](assets/vmstat.png)
 
-- `sudo netstat -a | more` merupakan perintah yang digunakan untuk mmemantau statistik paket jaringan yang masuk dan keluar serta statistik interface itu sendiri
+- `sudo netstat -a | more` merupakan perintah yang digunakan untuk memantau statistik paket jaringan yang masuk dan keluar serta statistik interface itu sendiri
 
   ![4](assets/netstat.png)
+
+- `ps` merupakan perintah yang digunakan untuk menampilkan laporan snapshot dari suatu proses
+
+  ![5](assets/ps.png)
+
+- `uptime` merupakan perintah yang digunakan untuk melihat berapa lama server dan sistem telah berjalan serta user yang sedang login dan rata-rata beban server
+
+  ![6](assets/uptime.png)
+
+- `w -fi` merupakan perintah yang digunakan untuk menampilkan informasi tentang user yang sedang berada di dalam mesin dan menampilkan proses dari user tersebut.
+
+  ![7](assets/w.png)
+
+- `free` merupakan perintah yang digunakan untuk menampilkan jumlah total dari physical dan swap memory yang dipakai dan tidak dipakai di dalam sistem serta buffer yang digunakan oleh kernel.
+
+  ![8](assets/free.png)

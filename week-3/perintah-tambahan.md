@@ -17,10 +17,6 @@
 
   ![4](assets/netstat.png)
 
-- `ps` merupakan perintah yang digunakan untuk menampilkan laporan snapshot dari suatu proses
-
-  ![5](assets/ps.png)
-
 - `uptime` merupakan perintah yang digunakan untuk melihat berapa lama server dan sistem telah berjalan serta user yang sedang login dan rata-rata beban server
 
   ![6](assets/uptime.png)

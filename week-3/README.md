@@ -9,11 +9,11 @@ Adapun rincian kebutuhan diantaranya :
 - OS : Linux Ubuntu Server
 - Version Control : Git
 - Virtualization software : VirtualBox
-- Firewall : UFw
+- Firewall : UFW
 - Tools : cmsmanajer
 
 # Penyelesaian
 
 - [Dokumentasi Manage Server with terminal](manage-server.md)
-- [Perintah tambahan](perintah-tambahan.md)
+- [Dokumentasi Perintah tambahan](perintah-tambahan.md)
 - [Dokumentasi cmsmanajer](dokumentasi-cmsmanajer.md)

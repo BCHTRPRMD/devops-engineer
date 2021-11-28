@@ -9,9 +9,11 @@ CMS Manajer atau Cadabra Multiple Server Manajer merupakan platform yang berguna
   ![1](assets/regis-1.png)
 
 - Mengisi informasi yang dibutuhkan seperti `Nama, Email, Password, Country, job` pada form signup
+
   ![2](assets/regis-2.png)
 
 - Membuka email yang telah didaftarkan dan lakukan klik untuk konfirmasi email
+
   ![3](assets/regis-3.png)
 
 - Jika telah berhasil proses verifikasi tersebut, maka akan dialihkan ke dashboard CMS Manajer.
@@ -23,12 +25,15 @@ CMS Manajer atau Cadabra Multiple Server Manajer merupakan platform yang berguna
   ![4](assets/connect-1.png)
 
 - Mengisi detail informasi ke dalam form diantaranya `Name server yang akan dibuat, IP Address, Username, Password`
+
   ![5](assets/connect-2.png)
 
 - Memilih `connect` untuk melanjutkan proses koneksi dengan CMS manajer dan meunggu prosesnya hingga selesai dimana akan mengatur firewall, optimasi kernel dan lainnya
+
   ![6](assets/connect-3.png)
 
 - Apabila sudah berhasil, maka akan tampil server dan terlihat seperti pada gambar di bawah
+
   ![7](assets/connect-4.png)
 
 # Instalasi aplikasi

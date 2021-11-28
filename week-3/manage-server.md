@@ -114,7 +114,7 @@ Perintah yang dapat digunakan untuk mengamankan sebuah server
 
 - `iptables` merupakan sebuah modul di linux yang memberikan dukungan langsung terhadap kernel untuk keamanan sistem serta beberapa keperluan jaringan
 
-  ![22](assets/ps-1.png)
+  ![22](assets/iptables.png)
 
 - `ufw` atau uncomplicated firewall merupakan salah satu fitur frontend iptables pada linux untuk mengkonfigurasi sistem firewall, berikut contoh penggunaannya :
 

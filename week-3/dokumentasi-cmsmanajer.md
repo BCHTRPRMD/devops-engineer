@@ -42,7 +42,8 @@ CMS Manajer atau Cadabra Multiple Server Manajer merupakan platform yang berguna
 
 - Membuka menu `create app` untuk melakukan instalasi aplikasi yang akan dipilih
 
-- Mengisi detail informasi seperti `name, domain, system user, title, username, password dan email
+- Mengisi detail informasi seperti `name, domain, system user, title, username, password dan email`
 - Memilih `create`
 
   ![9](assets/aplikasi-2.png)
+  ![9](assets/aplikasi-3.png)

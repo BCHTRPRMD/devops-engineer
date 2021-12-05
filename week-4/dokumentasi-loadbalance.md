@@ -47,7 +47,7 @@ Merupakan proses pembagian beban traffic sebuah aplikasi atau server. Dengan loa
 
   ![1](assets/monitoring-7.png)
 
-- Mengakses domain aplikasi `load-balance.net` pada Web Browser dan memuat ulang pada halaman aplikasi, maka trafik akan diberikan secara bergantian sehingga membentuk sebuah rotation atau putaran dengan menampilkan halaman dari server A dan server B
+- Mengakses domain aplikasi `load-balancer.net` pada Web Browser dan memuat ulang pada halaman aplikasi, maka trafik akan diberikan secara bergantian sehingga membentuk sebuah rotation atau putaran dengan menampilkan halaman dari server A dan server B
 
   ![1](assets/monitoring-8.png)
 

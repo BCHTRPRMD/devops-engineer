@@ -119,7 +119,7 @@ Perintah yang dapat digunakan untuk mengamankan sebuah server
 - `ufw` atau uncomplicated firewall merupakan salah satu fitur frontend iptables pada linux untuk mengkonfigurasi sistem firewall, berikut contoh penggunaannya :
 
   - `sudo ufw --version` digunakan untuk memeriksa ufw yang telah terpasang
-  - `sudo ufw default deny incoming` digunakan untuk memblokir semua akases yang masuk
+  - `sudo ufw default deny incoming` digunakan untuk memblokir semua akses yang masuk
   - `sudo ufw default allow outgoing` digunakan untuk membuka semua akses yang keluar
   - `sudo ufw app list` digunakan untuk menampilkan aplikasi yang didukung oleh ufw pada server
   - `sudo ufw allow "nama-aplikasi"` digunakan untuk mengizinkan akses dari luar ke dalam untuk suatu aplikasi

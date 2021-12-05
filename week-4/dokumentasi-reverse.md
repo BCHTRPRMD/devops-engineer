@@ -8,7 +8,7 @@ Merupakan konfigurasi standar yang digunakan untuk mengubah jalur traffic
 
 - Menjalankan perintah `cd /etc/nginx` untuk berpindah direktori
 - Menjalankan perintah `sudo mkdir projectApp` untuk membuat sebuah direktori `projectApp`
-- Menjalankan perintah `sudo nano nginx.conf` untuk melakukan penambahan folder yang telah dibuat kedalam `nginx.conf` dengan memasukan `include /etc/nginx/nodeApp/*;` ke dalam file tersebut
+- Menjalankan perintah `sudo nano nginx.conf` untuk melakukan penambahan folder yang telah dibuat kedalam `nginx.conf` dengan memasukan `include /etc/nginx/projectApp/*;` ke dalam file tersebut
 
   ![1](assets/reverse-0.png)
 

@@ -3,7 +3,7 @@
 Merupakan proses pembagian beban traffic sebuah aplikasi atau server. Dengan load balancer, salah satu server tidak akan menanggung terlalu banyak beban permintaan.
 
 <p align="center">
-  <img src="https://github.com/BCHTRPRMD/dumbways-dev/blob/main/week-4/assets/load-balancer.png" />
+  <img src="https://github.com/BCHTRPRMD/dumbways-dev/blob/master/week-4/assets/load-balancer.png" />
 </p>
 
 # Metode Load Balancing
@@ -41,7 +41,7 @@ Merupakan proses pembagian beban traffic sebuah aplikasi atau server. Dengan loa
 
   ![1](assets/monitoring-3.png)
 
-- Menjalankan server yang merupakan aplikasi yang telah dibuat sebelumnya
+- Menjalankan server dengan `port 3000 dan port 5000` yang merupakan aplikasi yang telah dibuat sebelumnya
 
   ![1](assets/monitoring-6.png)
 

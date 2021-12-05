@@ -23,7 +23,7 @@ Merupakan konfigurasi standar yang digunakan untuk mengubah jalur traffic
 ![3s](assets/reverse-3.png)
 
 - Menjalankan perintah `sudo nginx -t` untuk melakukan pengecekan konfigurasi
-- Menjalankan perintah `sudo systemctl reload nginx`
+- Menjalankan perintah `sudo systemctl reload nginx` untuk memuat ulang konfigurasi nginx
 
 ![4](assets/reverse-4.png)
 
@@ -32,7 +32,7 @@ Merupakan konfigurasi standar yang digunakan untuk mengubah jalur traffic
 - Menjalankan perintah `sudo nano /etc/hosts`
 - Menambahkan ip server dan domain yang akan digunakan ke dalam file `etc/hosts`
 
-# Membuat Domain local OS Windows
+### Membuat Domain local OS Windows
 
 - Melakukan penambahan pada file host dengan mengakses `C:\Windows\System32\drivers\etc` pada computer
 - Menambahkan ip server dan domain yang akan digunakan ke dalamnya
@@ -45,7 +45,7 @@ Merupakan konfigurasi standar yang digunakan untuk mengubah jalur traffic
 # Mengakses aplikasi menggunakan Domain
 
 - Menjalankan perintah `node index.js` atau `python3 index.py` atau `go run index.go` sesuai aplikasi yang akan dijalankan pada direktori yang telah dibuat
-- Mengakses web browse dan mencatumkan domain yang telah dibuat `nodejs.bpramadi.net
+- Mengakses web browse dan mencatumkan domain yang telah dibuat `nodejs.bpramadi.net` atau `python.bpramadi.net` atau `golang.bpramadi.net`
 
 ![7](assets/reverse-7.png)
 

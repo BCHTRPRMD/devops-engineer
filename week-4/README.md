@@ -1,14 +1,20 @@
 # Week 4
-Jelaskan maksud dari week 4 ini, apa yang akan Anda buat serta berikan gambar arsitekturnya.
+
+Dokumentasi Aplikasi, Web Server, Load balance
 
 # Kebutuhan
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Dll
+
+Adapun rincian kebutuhan diantaranya :
+
+- OS : Linux Ubuntu Server
+- Version Control : Git
+- Virtualization software : VirtualBox
+- Web server : Nginx
+- Engine : Node.js, Python, Golang
 
 # Penyelesaian
-- [Setup monitoring](setup-monitoring.md)
-- [Setup ansible & Membuat ansible playbook untuk konfigurasi server](setup-ansible-dan-membuat-ansible-playbook-untuk-konfigurasi-server.md)
+
+- [Dokumentasi pembuatan aplikasi node.js, python, golang](dokumentasi-aplikasi.md)
+- [Dokumentasi Monitoring Aplikasi](dokumentasi-monitoring.md)
+- [Dokumentasi Reverse proxy](dokumentasi-reverse.md)
+- [Dokumentasi Load Balance Nginx](dokumentasi-loadbalance.md)

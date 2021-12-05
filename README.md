@@ -22,6 +22,6 @@
 
 ## Minggu ke 4
 
-- Setup monitoring
-- Setup ansible & Membuat ansible playbook untuk konfigurasi server
+- Dokumentasi Pembuatan Aplikasi Node js, Python, Golang
+- Dokumentasi Monitoring Aplikasi
 - [Baca lebih lanjut](week-4/README.md)

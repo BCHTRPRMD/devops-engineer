@@ -25,4 +25,5 @@
 
 - Dokumentasi Pembuatan Aplikasi Node js, Python, Golang
 - Dokumentasi Monitoring Aplikasi
+- Reverse Proxy
 - [Baca lebih lanjut](week-4/README.md)

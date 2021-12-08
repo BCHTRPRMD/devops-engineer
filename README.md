@@ -18,6 +18,7 @@
 
 - Manage Server with Terminal
 - Perintah Tambahan
+- Dokumentasi CMS manajer
 - [Baca lebih lanjut](week-3/README.md)
 
 ## Minggu ke 4

@@ -34,4 +34,4 @@
 
 - VMware install ubuntu server and Setup Network
 - Install Application
-- [Baca lebih lanjut](week-1/README.md)
+- [Baca lebih lanjut](Dumbways_Week_1/README.md)

@@ -2,7 +2,7 @@
 
 # Install Frontend in Server App
 
-- Membuka terminal dan masuk kedalam Server appp AWS
+- Membuka terminal dan masuk kedalam Server app AWS
 
   ![1](assets/frontend-1.png)
 

@@ -37,7 +37,7 @@ Adapun Langkah-Langkahnya sebagai berikut :
 
   ![2](assets/vmware-6.png)
 
-  ![2](assets/vmware-7png)
+  ![2](assets/vmware-7.png)
 
   ![2](assets/vmware-8.png)
 

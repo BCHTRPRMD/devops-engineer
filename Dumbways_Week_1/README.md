@@ -14,9 +14,9 @@ Adapun rincian kebutuhan diantaranya :
 
 # Penyelesaian
 
-[VMware install ubuntu server and Setup Network](vmware.md)
-[Install Application](application.md)
-[AWS Create and Setup Network](setup-server.md)
-[AWS Reverse Proxy](reverse-proxy.md)
-[Custom domain](custom-domain.md)
-[SSL Configuration](ssl.md)
+- [VMware install ubuntu server and Setup Network](vmware.md)
+- [Install Application](application.md)
+- [AWS Create and Setup Network](setup-server.md)
+- [AWS Server App and Reverse Proxy](reverse-proxy.md)
+- [Custom domain](custom-domain.md)
+- [SSL Configuration](ssl.md)

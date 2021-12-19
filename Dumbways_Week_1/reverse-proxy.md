@@ -33,7 +33,7 @@
 
   ![1](assets/frontend-7.png)
 
-- Apabila sudah lakukan `ctrl + x` lalu `y` dan `enter
+- Apabila sudah lakukan `ctrl + x` lalu `y` dan `enter`
 - Melakukan perintah `pm2 start ecosystem.config.js` untuk menjalankan aplikasi
 
   ![1](assets/frontend-8.png)
@@ -73,7 +73,7 @@
 
   ```
 
-- Menjalankan perintah sudo nginx -t untuk melakukan pengecekan konfigurasi
+- Menjalankan perintah `sudo nginx -t` untuk melakukan pengecekan konfigurasi
 - Menjalankan perintah `sudo systemctl reload nginx` untuk memuat ulang konfigurasi nginx
 
   ![1](assets/reverse-4.png)

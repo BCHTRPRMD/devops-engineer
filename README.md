@@ -1,4 +1,4 @@
-# DevOps Engineer - DumbWays.id
+# DevOps - DumbWays.id
 
 ## Minggu ke 1
 
@@ -27,3 +27,11 @@
 - Dokumentasi Monitoring Aplikasi
 - Reverse Proxy
 - [Baca lebih lanjut](week-4/README.md)
+
+# DevOps Engineer - DumbWays.id
+
+## Minggu ke 1
+
+- Introduction DevOps
+- Kultur DevOps
+- [Baca lebih lanjut](week-1/README.md)

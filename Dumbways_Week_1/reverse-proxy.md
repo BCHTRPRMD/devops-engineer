@@ -50,9 +50,9 @@
 - Melakukan pemasangan nginx `sudo apt install nginx`
 - Melakukan pengecekan status nginx dengan menjalankan perintah ` sudo systemctl status nginx`
 
-![1](assets/reverse-2.png)
+  ![1](assets/reverse-2.png)
 
-![1](assets/reverse-3.png)
+  ![1](assets/reverse-3.png)
 
 - Masuk kedalam direktori nginx `cd /etc/nginx/`
 - jika sudah buat directory baru `sudo mkdir dumbflix`

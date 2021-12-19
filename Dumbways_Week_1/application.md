@@ -14,7 +14,7 @@ Reverse Proxy merupakan sebuah fitur/modul di dalam sebuah webserver, yang berfu
   ![1](assets/app-2.png)
 
 - Menjalankan perintah `exec bash` digunakan apabila nvm tidak terdeteksi
-- jika sudah terinstall kalian bisa cek menggunakan perintah `nvm -v`
+- jika sudah terinstall untuk mengecek lakukan perintah `nvm -v`
 - Menjalankan perintah `nvm install 14` untuk pemasangan nodejs versi 14
 
   ![1](assets/app-3.png)
@@ -56,8 +56,8 @@ Reverse Proxy merupakan sebuah fitur/modul di dalam sebuah webserver, yang berfu
 
   ![1](assets/app-12.png)
 
-- Apabila konfigurasi telah dibuat klik ctrl + x lalu tekan y dan enter
-- Menjalankan perintah sudo nginx -t untuk melakukan pengecekan konfigurasi
+- Apabila konfigurasi telah dibuat klik `ctrl + x` lalu tekan `y` dan `enter`
+- Menjalankan perintah `sudo nginx -t` untuk melakukan pengecekan konfigurasi
 - Menjalankan perintah `sudo systemctl reload nginx` untuk memuat ulang konfigurasi nginx
 
   ![1](assets/app-13.png)

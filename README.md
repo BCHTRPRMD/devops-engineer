@@ -32,6 +32,6 @@
 
 ## Minggu ke 1
 
-- Introduction DevOps
-- Kultur DevOps
+- VMware install ubuntu server and Setup Network
+- Install Application
 - [Baca lebih lanjut](week-1/README.md)

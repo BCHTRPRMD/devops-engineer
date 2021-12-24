@@ -8,7 +8,7 @@ Reverse Proxy merupakan sebuah fitur/modul di dalam sebuah webserver, yang berfu
 
   ![1](assets/app-1.png)
 
-- Menggunakan perintah `git clone https://github.com/sgnd/dumbplay-frontend.git` untuk mengclone aplikasi yang akan digunakan.
+- Menggunakan perintah `git clone https://github.com/sgnd/dumbflix-frontend.git` untuk mengclone aplikasi yang akan digunakan.
 - Menjalankan perintah `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`
 
   ![1](assets/app-2.png)

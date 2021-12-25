@@ -35,3 +35,10 @@
 - VMware install ubuntu server and Setup Network
 - Install Application
 - [Baca lebih lanjut](Dumbways_Week_1/README.md)
+
+## Minggu ke 2
+
+- Install Git and SSH Key
+- Setup Database
+- Deploy Backend App
+- [Baca lebih lanjut](Dumbways_Week_2/README.md)

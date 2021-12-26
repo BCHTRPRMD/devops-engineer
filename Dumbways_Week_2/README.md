@@ -16,7 +16,7 @@ Adapun rincian kebutuhan diantaranya :
 
 - [Install Git & SSH Key](git.md)
 - [Setup Database](database.md)
-- [Deploy Backend App](setup-server.md)
+- [Deploy Backend App](deploy-backend.md)
 - [Reverse Proxy Backend App](reverse-backend.md)
 - [Custom domain Backend App](custom-domain.md)
 - [SSL Configuration Backend App](ssl-backend.md)

@@ -15,6 +15,10 @@
 - Menjalankan perintah sudo nginx -t untuk melakukan pengecekan konfigurasi
 - Menjalankan perintah sudo systemctl restart nginx
 
+- Mengakses web browser dan memasukan domain `http://api.bpramadi.onlinecamp.id/`
+
+  ![1](assets/ssl-11.png)
+
 ## Konfigurasi Frontend
 
 - Mengakses server frontend menggunakan perintah `ssh devops@frontend`

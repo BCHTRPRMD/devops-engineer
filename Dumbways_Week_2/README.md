@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 Melakukan Pemasangan dan Pengaturan Backend, Ubuntu, Database, dan AWS server
 

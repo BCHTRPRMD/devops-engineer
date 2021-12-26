@@ -11,7 +11,7 @@
 
   ![1](assets/deploy-2.png)
 
-- Menjalankan perintah curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+- Menjalankan perintah `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`
 - Menjalankan perintah `exec bash` digunakan apabila nvm tidak terdeteksi
 - Menjalankan perintah `nvm install 14` untuk pemasangan nodejs versi 14
 

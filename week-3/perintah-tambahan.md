@@ -7,14 +7,23 @@
 
 - `sudo ufw delete allow 80` merupakan perintah yang digunakan untuk menghapus akses pada port 80
 
+<<<<<<< HEAD
   ![2](assets/ufw-delete.png)
 
 - `vmstat` merupakan perintah yang digunakan untuk menampilkan statistik memori virtual, kernerl threads, disk, proses sistem, blok I/O, interupsi, aktivitas CPU
 
   ![3](assets/vmstat.png)
+=======
+  [1](assets/ufw-delete.png)
+
+- `vmstat` merupakan perintah yang digunakan untuk menampilkan statistik memori virtual, kernerl threads, disk, proses sistem, blok I/O, interupsi, aktivitas CPU
+
+  [2](assets/vmstat.png)
+>>>>>>> parent of 90971fb (update)
 
 - `sudo netstat -a | more` merupakan perintah yang digunakan untuk memantau statistik paket jaringan yang masuk dan keluar serta statistik interface itu sendiri
 
+<<<<<<< HEAD
   ![4](assets/netstat.png)
 
 - `uptime` merupakan perintah yang digunakan untuk melihat berapa lama server dan sistem telah berjalan serta user yang sedang login dan rata-rata beban server
@@ -28,3 +37,6 @@
 - `free` merupakan perintah yang digunakan untuk menampilkan jumlah total dari physical dan swap memory yang dipakai dan tidak dipakai di dalam sistem serta buffer yang digunakan oleh kernel.
 
   ![8](assets/free.png)
+=======
+  [3](assets/netstat.png)
+>>>>>>> parent of 90971fb (update)

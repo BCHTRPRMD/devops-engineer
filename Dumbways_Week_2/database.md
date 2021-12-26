@@ -1,7 +1,7 @@
 # Setup Database
 
 - Melakukan Login ke AWS console
-- Membuat server untuk backend dan database dengan memilih `Launch a Virtual Machine With EC2`, adapun spesifikasinya sebagai berikut :
+- Membuat server untuk backend dan database dengan memilih `Launch a Virtual Machine With EC2`, adapun spesifikasinya sebagai berikut:
 
   - Ubuntu Server 20.04 LTS
   - t2.micro
@@ -18,7 +18,7 @@
   ![1](assets/database-2.png)
 
 - Menjalankan perintah `sudo mysql_secure_installation` untuk melakukan konfigurasi keamananan database
-- Menambahkan password dan melengkapidatabase persyaratan pemasangan mysql
+- Menambahkan password dan melengkapi database persyaratan pemasangan mysql
 
   ![1](assets/database-3.png)
 
@@ -38,7 +38,7 @@
   ![1](assets/database-7.png)
 
 - Melakukan konfigurasi pada file `mysqld.cnf` dengan menjalankan perintah `sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
-- Mengubah `bind address` dan `mysqlx-bind-address menjadi `0.0.0.0` / IP public
+- Mengubah `bind address` dan `mysqlx-bind-address` menjadi `0.0.0.0` / IP public
 - Apabila telah selesai lakukan restart pada mysql service `sudo systemctl restart mysql`
 
   ![1](assets/database-8.png)

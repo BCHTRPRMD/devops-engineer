@@ -25,10 +25,13 @@
    ```
 
 6. Kemudian build menjadi image
+
    ![Install Docker](assets/docker-image-3.2.png) <br />
 
 7. Push image frontend & backend ke dockerhub
+
    ![Install Docker](assets/docker-image-4.png) <br />
 
 8. Melakukan login ke `hub.docker.com/u/username`
+
    ![Install Docker](assets/docker-image-5.png) <br />

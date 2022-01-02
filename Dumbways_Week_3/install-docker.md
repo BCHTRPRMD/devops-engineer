@@ -25,7 +25,6 @@
 
 5. Update `sudo apt-get update`.
 6. Install docker `sudo apt-get install docker-ce docker-ce-cli containerd.io`.
-   cicd.bpramadi.onlinecamp.id
 
    ![Install Docker](assets/docker-01.png) <br />
 

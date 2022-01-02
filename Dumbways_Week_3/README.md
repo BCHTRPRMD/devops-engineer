@@ -1,6 +1,6 @@
-# Week 2
+# Week 3
 
-Melakukan Pemasangan dan Pengaturan Backend, Ubuntu, Database, dan AWS server
+Melakukan Pemasangan dan Pengaturan Backend, Ubuntu, Database, dan Multipass
 
 # Kebutuhan
 

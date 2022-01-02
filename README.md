@@ -42,3 +42,10 @@
 - Setup Database
 - Deploy Backend App
 - [Baca lebih lanjut](Dumbways_Week_2/README.md)
+
+## Minggu ke 3
+
+- Install Docker
+- Create Docker Images
+- Install Application
+- [Baca lebih lanjut](Dumbways_Week_3/README.md)

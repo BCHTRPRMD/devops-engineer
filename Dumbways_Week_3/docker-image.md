@@ -1,7 +1,7 @@
 # Create Docker Image
 
 1. Masuk ke server `appserver` dan lakukan update & upgrade
-2. Clone app frontend dan backend `git clone git@github.com:sgnd/dumbflix-backend.git` dan `git clone git@github.com:sgnd/dumbflix-frontend.git
+2. Clone app frontend dan backend `git clone git@github.com:sgnd/dumbflix-backend.git` dan `git clone git@github.com:sgnd/dumbflix-frontend.git`
 
 3. Selanjutnya buat Dockerfile untuk frontend
 

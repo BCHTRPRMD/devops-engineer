@@ -62,8 +62,7 @@ sudo mv prometheus-2.32.1.linux-amd64/prometheus /usr/local/bin/
 sudo mv prometheus-2.32.1.linux-amd64/promtool /usr
 /local/bin/
 sudo mv prometheus-2.32.1.linux-amd64/consoles /etc/prometheus
-sudo mv prometheus-2.32.1.linux-amd64/console_li
-braries /etc/prometheus
+sudo mv prometheus-2.32.1.linux-amd64/console_libraries /etc/prometheus
 ```
 
 ![1](assets/prometheus-3.png)

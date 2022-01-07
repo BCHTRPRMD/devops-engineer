@@ -42,9 +42,10 @@ sudo systemctl enable node_exporter
 
 ### Install Prometheus
 
-1. Melakukan download prometheus terlebih dahulu. `wget https://github.com/prometheus/prometheus/releases/download/v2.32.1/prometheus-2.32.1.linux-amd64.tar.gz`
+1. Melakukan download prometheus terlebih dahulu.
+   `wget https://github.com/prometheus/prometheus/releases/download/v2.32.1/prometheus-2.32.1.linux-amd64.tar.gz`
 
-2. Kemudian ekstrak prometheusnya `tar xvf prometheus-2.32.1.linux-amd64.tar.gz`
+2. Ekstrak prometheusnya `tar xvf prometheus-2.32.1.linux-amd64.tar.gz`
 
    ![1](assets/prometheus-1.png)
 
@@ -55,12 +56,11 @@ sudo mkdir /etc/prometheus
 sudo mkdir /var/lib/prometheus
 ```
 
-4. copy file-file ke dalam folder etc/prometheus
+4. Pindahkan file-file ke dalam folder sesuai gambar
 
 ```
 sudo mv prometheus-2.32.1.linux-amd64/prometheus /usr/local/bin/
-sudo mv prometheus-2.32.1.linux-amd64/promtool /usr
-/local/bin/
+sudo mv prometheus-2.32.1.linux-amd64/promtool /usr/local/bin/
 sudo mv prometheus-2.32.1.linux-amd64/consoles /etc/prometheus
 sudo mv prometheus-2.32.1.linux-amd64/console_libraries /etc/prometheus
 ```

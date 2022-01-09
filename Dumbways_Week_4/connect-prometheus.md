@@ -49,7 +49,7 @@ scrape_configs:
 
 1. Menampilkan informasi server
 
-- Pada menu create pilih import dan salin id da
+- Pada menu create pilih import dan salin id dashboard
 
   ![1](assets/monitoring5.png)
 

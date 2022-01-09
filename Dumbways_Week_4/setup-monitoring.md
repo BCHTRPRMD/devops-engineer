@@ -8,7 +8,7 @@
 curl -LO https://github.com/prometheus/node_exporter/releases/download/v1.3.1/node_exporter-1.3.1.linux-amd64.tar.gz
 ```
 
-2. kemudian ekstrak file yang telah didownload `tar -xvf node_exporter-1.3.1.linux-amd64.tar.gz`
+2. Ekstrak file yang telah didownload `tar -xvf node_exporter-1.3.1.linux-amd64.tar.gz`
 
    ![1](assets/node-1.png)
 
@@ -34,11 +34,11 @@ sudo systemctl enable node_exporter
 
 7. Melakukan cek node_exporter yang berjalan dengan `sudo systemctl enable node_exporter`
 
-   ![1](assets/node-3.png)
+   ![1](assets/node-4.png)
 
 8. Buka web browser umtuk megakses node exporter
 
-   ![1](assets/node-3.png)
+   ![1](assets/node-5.png)
 
 ### Install Prometheus
 

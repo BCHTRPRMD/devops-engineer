@@ -2,6 +2,8 @@
 
 Melakukan pembuatan infrastucture sesuai tugas
 
+ ![gambar](assets/infra.png)
+
 # Kebutuhan
 
 Adapun rincian kebutuhan diantaranya :

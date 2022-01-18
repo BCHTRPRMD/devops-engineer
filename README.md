@@ -56,3 +56,10 @@
 - Connect multiple server to prometheus
 - Setup Server with Ansible
 - [Baca lebih lanjut](Dumbways_Week_4/README.md)
+
+## Final
+
+- Repository
+- Server
+- SSH
+- [Baca lebih lanjut](Dumbways_Final_task/README.md)

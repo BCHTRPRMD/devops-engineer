@@ -1,14 +1,12 @@
 # Final Task
 
-Melakukan pembuatan infrastucture
+Melakukan pembuatan infrastructure
 
 <p align="center">
   <img src="assets/infra.png" />
 </p>
 
 # Kebutuhan
-
-Adapun rinciannya sebagai berikut :
 
 - OS : Linux Ubuntu 20.04 LTS
 - Docker

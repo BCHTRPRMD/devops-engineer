@@ -49,3 +49,10 @@
 - Create Docker Images
 - Install Application
 - [Baca lebih lanjut](Dumbways_Week_3/README.md)
+
+## Minggu ke 4
+
+- Setup Monitoring Server
+- Connect multiple server to prometheus
+- Setup Server with Ansible
+- [Baca lebih lanjut](Dumbways_Week_4/README.md)

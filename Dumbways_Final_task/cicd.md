@@ -59,18 +59,67 @@ services:
 
    ![08](assets/cicd-4.png)
 
-2. Setup build triggers
+3. Setup build triggers
 
    ![08](assets/cicd-3.png)
 
-3. Setup build command 
+4. Setup build command 
 
    ![08](assets/cicd-5.png)
 
-4. Save
+5. Save
 
 6. Test build
     
    ![08](assets/cicd-6.png)
 
 
+### Setup jenkins job backend
+1. Buat freestyle project
+2. Configure, setup source code management
+
+3. Setup build triggers
+
+   ![08](assets/cicd-3.png)
+
+4. Setup build command 
+
+   ![08](assets/cicd-7.png)
+
+5. Save
+
+6. Test build
+    
+   ![08](assets/job6.png)
+
+
+
+### Setup GitHub Webhook 
+1. Generate url menggunakan ngrok `./ngrok http 8080`
+2. Melakukan setup configuration jenkins dengan menambahkan url
+
+   ![08](assets/job1.png)
+
+3. Apply & save 
+
+4. Menambahkan menu konfigurasi Github Servers dan `salin url yang ditampilkan`
+
+   ![08](assets/job2.png)
+
+5. Login akun github
+6. Membuka repository backend app
+7. Settings 
+8. Masuk ke Webhook
+9. Tambahkan url yang telah disalin sebelumnya di Payload URL
+
+   ![08](assets/job3.png)
+
+10. Simpan
+11. Melakukan hal yang serupa pada repository frontend app
+12. Melakukan perubahan pada repository untuk melakukan trigger 
+    
+    ![08](assets/job4.png)
+    
+    ![08](assets/job5.png)
+    
+    ![08](assets/job6.png)

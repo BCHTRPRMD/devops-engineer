@@ -99,7 +99,7 @@ Docker swarm merupakan teknologi yang dibuat untuk mempermudah distribusi aplika
    ![11](assets/swarm-4.png)
 
 ## Build & Push image ke Docker hub
-1. Melakukan clone app dengan perintah `https://github.com/ogak/dumbways-microservice.git`
+1. Melakukan clone app dengan perintah `https://github.com/sgnd/dumbways-microservice.git`
 2. Melakukan build image `docker-compose build`
    
    ![11](assets/deploy-2.png)

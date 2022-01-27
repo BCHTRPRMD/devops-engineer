@@ -81,7 +81,7 @@
 4. Install mkpasswd
 5. Gunakan mkpasswd untuk enkripsi passwordnya
 6. Buat authorized file, fungsinya untuk memberi akses login ssh kepada user baru
-7. Buat authorized key dari ssh key sshkey.pem
+7. Buat authorized key dari sshkey.pem
 8. ``ssh-keygen -y -f sshkey.pem`` perintah ini akan mengenerate authorized key
 
    ![03](assets/ssh-key.png) <br />

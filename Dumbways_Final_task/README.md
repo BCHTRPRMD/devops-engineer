@@ -21,7 +21,7 @@ Melakukan pembuatan infrastructure
 
 - [Repository](repository.md)
 - [Server](server.md)
-- [user](user.md)
+- [User](user.md)
 - [SSH](ssh.md)
 - [Database](database.md)
 - [Web Server](web_server.md)

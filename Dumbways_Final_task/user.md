@@ -81,12 +81,12 @@
 4. Install mkpasswd
 5. Gunakan mkpasswd untuk enkripsi passwordnya
 6. Buat authorized file, fungsinya untuk memberi akses login ssh kepada user baru
-7. Buat authorized key dari ssh key aws server
+7. Buat authorized key dari ssh key sshkey.pem
 8. ``ssh-keygen -y -f sshkey.pem`` perintah ini akan mengenerate authorized key
 
    ![03](assets/ssh-key.png) <br />
 
-8. Jalankan ansible-playbook ``ansible-playbook create_users.yml``
+9. Jalankan ansible-playbook ``ansible-playbook create_users.yml``
 
    ![03](assets/create-user-4.png) <br />
 

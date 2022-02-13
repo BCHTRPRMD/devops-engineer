@@ -115,7 +115,7 @@
    
    ![09](assets/monitor-5.png)
 
-6. Pilih dashboard yang sesuai kebutuhan pada https://grafana.com/grafana/dashboards/
+6. Pilih dashboard sesuai kebutuhan pada https://grafana.com/grafana/dashboards/
 7. Kemudian klik load dan import
    
    ![09](assets/monitor-4.png)

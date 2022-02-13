@@ -1,4 +1,4 @@
-# Setup User di Instance/Server
+# [Setup User] di Instance/Server
 
 1. Buat file hosts untuk menyimpan ip remote host
    ```
@@ -11,7 +11,7 @@
 
    ```
 
-2. Buat file ansbile ``create-user.yml``
+2. Buat [file ansbile](https://github.com/BCHTRPRMD/setup-ansible) ``create-user.yml``
 3. Buat task untuk create user di ansible
    ```
     - name: Create User
